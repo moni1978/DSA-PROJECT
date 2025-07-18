@@ -23,3 +23,7 @@ Each row represent a unique product to generate an insight that can guide produc
         - Removing Blank rows
         - splitting columns with unnecessary long words and extracting the key words
 ## Explanatory details
+The following questions were answered by taking the following actions
+  - using calculated columns
+  - pivot tables
+  - 
