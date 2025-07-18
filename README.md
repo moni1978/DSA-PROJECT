@@ -27,7 +27,6 @@ The following questions were answered by taking the following actions
   - using calculated columns
   - pivot tables
 1. What is the average discount percentage by product category
-     - Insert a pivort table: Rows - product category, value - discount percentage, summarizing value by Average
-  
+     - Insert a pivort table: Rows - product category, value - discount percentage, summarizing value by Averag
        
    
