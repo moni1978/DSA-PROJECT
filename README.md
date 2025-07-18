@@ -7,3 +7,5 @@ The project is using Excel to analize product and customer data to generate an i
 * Details
 * Outcome of Amazon Product data using Microsoft Excel
 * Dashboard overview
+Project Overview
+The dataset in the project contains information from Amazon Product which includes
